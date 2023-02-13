@@ -1,5 +1,3 @@
-
-
 module.exports = function toReadable (number) {
   const Digits = {
     SINGLE_DIGITS: ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'], // 0 to 9
